@@ -1,2 +1,2 @@
 # codigos-python
- codigos elaborados durante o primeiro periodo de ciencias da computação
+ Códigos elaborados durante o primeiro periodo de ciencias da computação
